@@ -1,0 +1,1 @@
+define({_widgetLabel:"Graf",datalimitedTip:"Pásové alebo stĺpcové grafy sú obmedzené na 1 000 pásov. Filtrujte alebo znova agregujte svoje dáta a skúste to znova.",pieDatalimitedTip:"Nie je možné vykresliť, príliš veľa kategórií. Koláčový graf je obmedzený na maximálne 300 kategórií.",dataEmptyTip:"Nenašli sa žiadne dáta."});
